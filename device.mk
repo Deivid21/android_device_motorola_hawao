@@ -32,7 +32,7 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.lights-service.bengal
+    android.hardware.light-service.lineage
 
 # Moto Camera 4
 TARGET_MOTCAMERA4 := hawao
